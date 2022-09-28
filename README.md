@@ -47,3 +47,5 @@ quick sort
 stack operation
 
 tree traversals
+
+avl tree operation
